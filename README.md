@@ -16,8 +16,6 @@ Desarrollar un modelo capaz de estimar y simular la probabilidad de los resultad
 
 ## Variables consideradas;
 
-- El modelo podrá utilizar diferentes variables relacionadas con el desempeño de los equipos.
-
 - Rendimiento reciente
 
 - Victorias en los últimos partidos
@@ -46,10 +44,6 @@ El proyecto se desarrollará en diferentes etapas:
 Datos históricos
        ↓
 Preparación y limpieza
-       ↓
-Análisis exploratorio
-       ↓
-Estimación de parámetros
        ↓
 Modelo predictivo
        ↓
