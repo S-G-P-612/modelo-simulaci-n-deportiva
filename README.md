@@ -40,7 +40,7 @@ Preparación y limpieza
        ↓
 Modelo predictivo
        ↓
-Simulación Monte Carlo
+Simulación Monte Carlo o Poisson
        ↓
 Distribución de resultados
        ↓
