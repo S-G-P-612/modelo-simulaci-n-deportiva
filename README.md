@@ -9,14 +9,8 @@ La finalidad principal no es recomendar apuestas, sino estudiar cómo un modelo 
 
 Desarrollar un modelo capaz de estimar y simular la probabilidad de los resultados de un partido de fútbol a partir de datos pasados y variables relacionadas con el rendimiento de los equipos.
 
- ## Preguntas de investigación:
-
-¿Es posible desarrollar un modelo basado en datos históricos que permita estimar y simular la probabilidad de los diferentes resultados de un partido de fútbol?
-¿Qué variables tienen mayor influencia sobre la estimación del resultado de un partido?
 
 ## Variables consideradas;
-
-- Rendimiento reciente
 
 - Victorias en los últimos partidos
 
@@ -39,7 +33,6 @@ Desarrollar un modelo capaz de estimar y simular la probabilidad de los resultad
 
  ## Metodología propuesta
 
-El proyecto se desarrollará en diferentes etapas:
 
 Datos históricos
        ↓
@@ -80,34 +73,10 @@ Accuracy
 
 Matriz de confusión
 
-Log Loss
 
 
 También se compararán las probabilidades estimadas por el modelo con las frecuencias observadas en los resultados reales.
 
-## Experimentos propuestos
-
-Se realizarán diferentes experimentos para analizar el comportamiento del modelo.
-
-Experimento 1 — Modelo base
-
-Utilizar variables básicas de rendimiento y condición de local/visitante.
-
-Experimento 2 — Forma reciente
-
-Incorporar el rendimiento de los últimos partidos.
-
-Experimento 3 — Descanso
-
-Analizar el efecto de los días de descanso sobre las probabilidades estimadas.
-
-Experimento 4 — Simulación Monte Carlo
-
-Generar miles de escenarios posibles para un mismo partido.
-
-Experimento 5 — Análisis de sensibilidad
-
-Modificar determinadas variables y observar cómo cambia la distribución de resultados del modelo.
 
 ## Limitaciones
 
